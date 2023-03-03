@@ -1,2 +1,2 @@
 # gtgraphics
-Free graphics files for clients
+Free graphics (and sound) files for clients.
