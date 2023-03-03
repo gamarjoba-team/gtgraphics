@@ -1,2 +1,2 @@
 # gtmedia
-Free graphics (and sound) files for clients.
+Free graphic and sound files for clients.
